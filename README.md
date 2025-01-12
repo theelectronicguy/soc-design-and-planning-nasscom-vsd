@@ -70,7 +70,7 @@ This creates a 'runs' directory:
 
 note: Config.tcl shows all parameters that it may use to run
 
-#step-2: run synthesis 
+#step-2: run the synthesis using run_synthesis command
 <img width="959" alt="Screenshot 2025-01-13 032513" src="https://github.com/user-attachments/assets/a6984555-b508-46fd-b3a3-16730e2f17fd" />
 
 
