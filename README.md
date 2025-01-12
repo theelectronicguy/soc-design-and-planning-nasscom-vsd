@@ -5,9 +5,13 @@ A 2 Week digital VLSI SoC design and planning workshop with complete RTL2GDSII f
 
 08/01/25 - 22/01/25
 
+## 📑 Table of Contents
 
-## Section 1
-Sky130 Day 1 - Inception of open-source EDA, OpenLANE and Sky130 PDK
+- [Section 1 - Sky130 Day 1](#section-1---sky130-day-1-inception-of-open-source-eda-openlane-and-sky130-pdk)
+
+<details>
+  <summary><strong>Section 1 - Sky130 Day 1: Inception of open-source EDA, OpenLANE and Sky130 PDK</strong></summary>
+
 
 1. Run 'picorv32a' design synthesis using OpenLANE flow and generate necessary outputs.
 Commands to invoke the OpenLANE flow and perform synthesis
@@ -85,7 +89,7 @@ After synthesis , we can go to results folder and see the synthesised report
 
 Synthesized Result File: 
 <img width="952" alt="Screenshot 2025-01-13 035727" src="https://github.com/user-attachments/assets/a160fcf4-39fa-4ba2-a252-8184eb348fbb" />
-
+</details>
 
 
 
