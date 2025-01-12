@@ -28,6 +28,9 @@ bash-4.2$ ./flow.tcl -interactive
 [INFO]: Running interactively
 % package require openlane 0.9
 0.9
+```
+#Step-1: Design Preparation Stage
+```
 % prep -design picorv32a 
 [INFO]: Using design configuration at /openLANE_flow/designs/picorv32a/config.tcl
 [INFO]: Sourcing Configurations from /openLANE_flow/designs/picorv32a/config.tcl
@@ -60,6 +63,16 @@ mergeLef.py : Merging LEFs complete
 ```
 
 <img width="947" alt="Screenshot 2025-01-13 022842" src="https://github.com/user-attachments/assets/f1e60f8e-1d71-4f58-8564-2d77ac603958" />
+
+This creates a 'runs' directory:
+
+<img width="809" alt="Screenshot 2025-01-13 031020" src="https://github.com/user-attachments/assets/ef2710ee-d063-4159-817c-02c5ad0eb76f" />
+
+note: Config.tcl shows all parameters that it may use to run
+
+#step-2: run synthesis 
+<img width="959" alt="Screenshot 2025-01-13 032513" src="https://github.com/user-attachments/assets/a6984555-b508-46fd-b3a3-16730e2f17fd" />
+
 
 
 
