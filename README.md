@@ -73,6 +73,13 @@ note: Config.tcl shows all parameters that it may use to run
 #step-2: run the synthesis using run_synthesis command
 <img width="959" alt="Screenshot 2025-01-13 032513" src="https://github.com/user-attachments/assets/a6984555-b508-46fd-b3a3-16730e2f17fd" />
 
+Calculating Flop Ratio and % DFF:
+
+<img width="383" alt="Screenshot 2025-01-13 034544" src="https://github.com/user-attachments/assets/6d5718f4-b5b8-4908-9f93-fb9dc6c1d6a9" />
+
+<img width="304" alt="Screenshot 2025-01-13 034406" src="https://github.com/user-attachments/assets/dca488db-3e1a-4306-ae22-e6cb44a9b7e7" />
+
+
 
 
 
