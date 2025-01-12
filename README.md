@@ -1,5 +1,5 @@
 
-# Digital VLSI SoC Design and Planning
+# Digital VLSI SoC Design and Planning - Performed By Ashu Babbar
 
 A 2 Week digital VLSI SoC design and planning workshop with complete RTL2GDSII flow organised by VSD in collaboration with NASSCOM
 
@@ -79,10 +79,12 @@ Calculating Flop Ratio and % DFF:
 
 <img width="304" alt="Screenshot 2025-01-13 034406" src="https://github.com/user-attachments/assets/dca488db-3e1a-4306-ae22-e6cb44a9b7e7" />
 
+After synthesis , we can go to results folder and see the synthesised report
 
+![Screenshot 2025-01-13 035815](https://github.com/user-attachments/assets/af2e87fa-4fec-4f9b-8e03-5c628e7dca2e)
 
-
-
+Synthesized Result File: 
+<img width="952" alt="Screenshot 2025-01-13 035727" src="https://github.com/user-attachments/assets/a160fcf4-39fa-4ba2-a252-8184eb348fbb" />
 
 
 
