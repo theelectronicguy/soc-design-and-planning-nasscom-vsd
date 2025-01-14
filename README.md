@@ -5,10 +5,6 @@ A 2 Week digital VLSI SoC design and planning workshop with complete RTL2GDSII f
 
 08/01/25 - 22/01/25
 
-## 📑 Table of Contents
-
-- [Section 1 - Sky130 Day 1](#section-1---sky130-day-1-inception-of-open-source-eda-openlane-and-sky130-pdk)
-
 <details>
   <summary><strong>Section 1 - Sky130 Day 1: Inception of open-source EDA, OpenLANE and Sky130 PDK</strong></summary>
 
