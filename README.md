@@ -87,7 +87,11 @@ Synthesized Result File:
 <img width="952" alt="Screenshot 2025-01-13 035727" src="https://github.com/user-attachments/assets/a160fcf4-39fa-4ba2-a252-8184eb348fbb" />
 </details>
 
+<summary><strong>Section 2 - Good floorplan vs bad floorplan and introduction to library cells</strong></summary>
+We execute the run_floorplan command as below:
 
+<img width="914" alt="Screenshot 2025-01-15 022839" src="https://github.com/user-attachments/assets/18797e70-0a01-4710-b478-07ea71aa1a3b" />
+<img width="959" alt="Screenshot 2025-01-15 023316" src="https://github.com/user-attachments/assets/5ad2d32d-ea5e-4519-a825-5a1c503a1dfd" />
 
 
 
